@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.infrastructure\\gfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\gfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.applicationcore\\services\\artisteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\artisteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.applicationcore\\services\\chansonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\chansonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.applicationcore\\services\\concertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\concertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.applicationcore\\services\\festivalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\festivalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.ui.web\\views\\chanson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\chanson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.ui.web\\views\\chanson\\sort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\chanson\\sort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.ui.web\\controllers\\chansoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\controllers\\chansoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.applicationcore\\interfaces\\iservicechanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iservicechanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.applicationcore\\interfaces\\iserviceconcert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iserviceconcert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.applicationcore\\interfaces\\iserviceartiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iserviceartiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.ui.web\\views\\artiste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\artiste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.ui.web\\views\\artiste\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\artiste\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.ui.web\\views\\chanson\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\chanson\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|c:\\users\\dell\\desktop\\correctionrendu1\\examen\\examen.ui.web\\controllers\\artistecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\controllers\\artistecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GFContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.Infrastructure\\GFContext.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\GFContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.Infrastructure\\GFContext.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\GFContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:32:47.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtisteService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Services\\ArtisteService.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ArtisteService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Services\\ArtisteService.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ArtisteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:32:33.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FestivalService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Services\\FestivalService.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\FestivalService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Services\\FestivalService.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\FestivalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:32:21.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sort.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Views\\Chanson\\Sort.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Chanson\\Sort.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Views\\Chanson\\Sort.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Chanson\\Sort.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T20:58:01.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IServiceConcert.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceConcert.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServiceConcert.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceConcert.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServiceConcert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:47:47.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcertService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Services\\ConcertService.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ConcertService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Services\\ConcertService.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ConcertService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:47:25.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServiceArtiste.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceArtiste.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServiceArtiste.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceArtiste.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServiceArtiste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:47:06.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IServiceChanson.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceChanson.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServiceChanson.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceChanson.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServiceChanson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:46:03.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChansonService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Services\\ChansonService.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ChansonService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.ApplicationCore\\Services\\ChansonService.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ChansonService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:45:35.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Views\\Chanson\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Chanson\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Views\\Chanson\\Index.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Chanson\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T20:26:08.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Views\\Artiste\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Artiste\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Views\\Artiste\\Index.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Artiste\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T20:38:05.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Views\\Artiste\\Details.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Artiste\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Views\\Artiste\\Details.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Artiste\\Details.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T20:37:59.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Views\\Chanson\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Chanson\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Views\\Chanson\\Edit.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Chanson\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T20:31:52.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ArtisteController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Controllers\\ArtisteController.cs",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Controllers\\ArtisteController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Controllers\\ArtisteController.cs",
+              "RelativeToolTip": "Examen.UI.Web\\Controllers\\ArtisteController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:10:32.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChansonController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Controllers\\ChansonController.cs",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Controllers\\ChansonController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\CorrectionRendu1\\Examen\\Examen.UI.Web\\Controllers\\ChansonController.cs",
+              "RelativeToolTip": "Examen.UI.Web\\Controllers\\ChansonController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:51:37.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
